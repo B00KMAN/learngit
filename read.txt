@@ -1,4 +1,4 @@
 git is good softwork.
 git is great wall.
 I give a good explame to git.
-git tracks changes.
+git tracks changes of files.
