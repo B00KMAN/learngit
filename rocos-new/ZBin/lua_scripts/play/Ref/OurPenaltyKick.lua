@@ -1,1 +1,0 @@
-gCurrentPlay = "Ref_PenaltyKickV1"

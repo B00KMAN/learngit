@@ -1,2 +1,0 @@
-gLastTask = {}
-gRoleTask = {}
